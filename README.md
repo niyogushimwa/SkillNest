@@ -4,7 +4,7 @@
 
 [![Status](https://img.shields.io/badge/status-in%20development-fbbf24?style=flat-square)](#roadmap)
 [![Made in Rwanda](https://img.shields.io/badge/made%20in-Rwanda-1EB53A?style=flat-square)](#)
-[![Portfolio](https://img.shields.io/badge/portfolio-remy-38bdf8?style=flat-square)](https://niyogushimwa.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/portfolio-remy-38bdf8?style=flat-square)](https://remyportfolio.vercel.app/)
 
 ## Overview
 
@@ -58,7 +58,7 @@ The project is not open for contributions yet. Feedback on the concept is welcom
 
 **Remy Niyogushimwa** — Software Development Student & Web Designer
 
-- Portfolio: https://niyogushimwa.github.io/portfolio/
+- Portfolio: https://remyportfolio.vercel.app/
 - GitHub: [@niyogushimwa](https://github.com/niyogushimwa)
 - LinkedIn: [remy-niyogushimwa-7033a5377](https://www.linkedin.com/in/remy-niyogushimwa-7033a5377)
 - Email: niyogushimwaremy@gmail.com
